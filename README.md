@@ -64,7 +64,7 @@ Pastikan laptop anda sudah memiliki:
 **1. Clone repository**
 
 ```bash
-git clone https://github.com/ofidefiyanti/TokoApp.git
+git clone https://github.com/ofidefiyanti/Produk-Toko-App.git
 ```
 
 **2. Masuk ke folder project**
