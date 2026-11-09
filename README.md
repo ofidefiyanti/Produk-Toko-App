@@ -12,7 +12,7 @@ Aplikasi ini dibuat menggunakan **Java dan JavaFX** dengan tampilan yang simpel 
 
 ### Form Tambah Produk
 
-Halaman untuk menambahkan produk baru. anda bisa mengisi nama produk, memilih kategori, memasukkan harga, dan memilih foto produk.
+Halaman untuk menambahkan produk baru. Anda bisa mengisi nama produk, memilih kategori, memasukkan harga, dan memilih foto produk.
 
 ![Form Tambah Produk](Tambah-Produk.png)
 
@@ -32,7 +32,7 @@ Menampilkan informasi lebih lengkap dari produk yang dipilih, seperti kode, nama
 
 Menampilkan produk dalam bentuk kartu supaya katalog lebih mudah dilihat. Setiap kartu berisi informasi produk dan pilihan untuk melihat detailnya.
 
-![Katalog Produk](Katalog-Produk.png)
+![Katalog Produk](Katalog.png)
 
 ---
 
@@ -113,5 +113,4 @@ Project ini dibuat sebagai bagian dari pembelajaran pemrograman Java. Melalui pr
 Project Pemrograman Java | 2026
 
 ---
-print(f"README berhasil dibuat: {path}")
 
